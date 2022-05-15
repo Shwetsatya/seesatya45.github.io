@@ -6,6 +6,9 @@ import 'package:folio/widget/socialMediaIcon.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 
+
+
+
 class HomeMobile extends StatefulWidget {
   @override
   _HomeMobileState createState() => _HomeMobileState();
